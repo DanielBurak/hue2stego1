@@ -1,5 +1,6 @@
 
 //test
+//second comm
 package stego;
 
 import java.io.File;
